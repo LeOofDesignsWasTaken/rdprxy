@@ -1,7 +1,7 @@
 {
   "name": "rdprxy",
   "description": "A proxy created for serving HTTP requests from Roblox to Discord or Roblox.",
-  "repository": "https://github.com/sentanos/rdprxy",
+  "repository": "https://github.com/MyNameIsChan/rdprxy",
   "keywords": ["node", "roblox", "proxy", "discord"],
   "env": {
     "ACCESS_KEY": {
