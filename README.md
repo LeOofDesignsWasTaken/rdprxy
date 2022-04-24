@@ -29,7 +29,7 @@ Seriously, this is so easy nobody can possibly screw it up. If you somehow do...
 
 **Client**
 
-Now you can get the handler script from [here](https://github.com/sentanos/rdprxy/blob/master/client/proxyHandler.mod.lua) and put it in a module script in ServerScriptService. Here is the API:
+Now you can get the handler script from [here](https://github.com/MyNameIsChan/rdprxy/blob/master/client/proxyHandler.mod.lua) and put it in a module script in ServerScriptService. Here is the API:
 
     ProxyHandler:New(domain, accessKey)
     Proxy:Get(target, path, nocache, headers)
